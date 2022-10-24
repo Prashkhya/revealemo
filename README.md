@@ -1,5 +1,5 @@
-# Snap-Tweek
-An Image Editing App
+# RevealEmo
+An EmotionDetector and Image Editting App
 
 It is based on streamlit 
 
